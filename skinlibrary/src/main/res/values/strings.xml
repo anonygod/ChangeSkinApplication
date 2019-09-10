@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SkinLibrary</string>
+    <string name="title_activity_main">SkinBaseActivity</string>
+</resources>
